@@ -4,7 +4,7 @@
   "author": "Material-UI Team",
   "version": "3.7.0",
   "description": "React components that implement Google's Material Design.",
-  "alva:main": "src/index.js",
+  "alva:main": "index.js",
   "keywords": [
     "react",
     "react-component",
